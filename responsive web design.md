@@ -10,14 +10,14 @@
 `HTML` is a markup language that uses a `special syntax` or `notation` to describe the `structure of a webpage` to the `browser`. `HTML` elements usually have `opening and closing tags` that surround and give meaning to content. For example, different elements can describe text as a `heading`, `paragraph`, or `list item`.  
 In this course, you'll build a `cat photo app` to learn some of the most common HTML elements — the `building blocks` of any webpage.  
 
-#### 01**Say Hello World to HTML Elements**  
+#### 01. **Say Hello World to HTML Elements**  
 ```html
 <h1>Hello World</h1>    
 <!-- 
     This is an HTML element. Most HTML elements have an opening tag and a closing tag.
     -->
 ```  
-#### 02**Headline with the h2 Element**  
+#### 02. **Headline with the h2 Element**  
 ```html
 <h1>Hello World</h1>
 <h2>CatPhotoApp</h2>
@@ -28,16 +28,16 @@ h1 elements are often used for main headings, while h2 elements are generally us
 There are also h3, h4, h5 and h6 elements to indicate different levels of subheadings.
 -->
 ```
-#### 03**Inform with the Paragraph Element**  
+#### 03. **Inform with the Paragraph Element**  
 `p` elements are the preferred element for paragraph text on websites. `p` is short for "paragraph".  
 You can create a paragraph element like this:    
 ```html
 <p>Hello Paragraph</p>
 ```
-#### 04**Fill in the Blank with Placeholder Text**  
+#### 04. **Fill in the Blank with Placeholder Text**  
 Web developers traditionally use `lorem ipsum text` as `placeholder text`. The `lorem ipsum text` is randomly scraped from a famous passage by Cicero of `Ancient Rome`.  
 `Lorem ipsum` text has been used as placeholder text by typesetters since `the 16th century`, and this tradition continues on the web.  
-Learn more about lorem ipsum:[lorem ipsum Wikipedia](https://en.wikipedia.org/wiki/Lorem_ipsum)  
+Learn more about `lorem ipsum`: [lorem ipsum Wikipedia](https://en.wikipedia.org/wiki/Lorem_ipsum)  
 Well, `5 centuries` is long enough. Since we're building a CatPhotoApp, let's use something called `"kitty ipsum"` text.  
 ```html
 <h1>Hello World</h1>
@@ -45,11 +45,11 @@ Well, `5 centuries` is long enough. Since we're building a CatPhotoApp, let's us
 <p>kitty ipsum</p>  
 <!--kitty ipsum replace the text inside p element with the first few words of this kitty ipsum text: Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.-->
 ```  
-#### 05**HTML Comments**  
+#### 05. **HTML Comments**  
 Commenting is a way that you can leave comments for other developers within your code without affecting the resulting output that is displayed to the end user.  
 Commenting is also a convenient way to make code inactive without having to delete it entirely.  
 `Comments` in HTML start with `<!-- `and end with a `-->`    
-#### 06**Introduction to HTML5 Elements**  
+#### 06. **Introduction to HTML5 Elements**  
 HTML5 introduces more descriptive HTML tags. These include `main`, `header`, `footer`, `nav`, `video`, `article`, `section` and others.  
 These tags give a descriptive structure to your HTML, make your HTML easier to read, and help with `Search Engine Optimization (SEO)` and `accessibility`.    
 The main HTML5 tag helps search engines and other developers find the main content of your page.  
@@ -62,7 +62,7 @@ Example usage, a `main` element with two child elements nested inside it:
 </main>
 ```  
 Note: Many of the new HTML5 tags and their benefits are covered in the `Applied Accessibility` section.  
-#### 07**Add Images to Your Website**  
+#### 07. **Add Images to Your Website**  
 You can add images to your website by using the `img` element, and point to a specific image's URL using the `src` attribute.  
 An example of this would be:  
 ```html
@@ -84,7 +84,7 @@ Here's the complete html code about `CatPhotoApp project`.
   <p>Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
 </main>
 ```  
-#### 08**Link to External Pages with Anchor Elements**  
+#### 08. **Link to External Pages with Anchor Elements**  
 You can use `a` (anchor) elements to link to content outside of your web page.  
 `a` elements need a `destination web address` called an `href` attribute. They also need anchor text. Here's an example:  
 ```html
@@ -109,8 +109,8 @@ Here's the complete html code about `CatPhotoApp project`.
 
 <footer>Copyright Cat Photo App</footer>
 ```  
-#### 09**Link to Internal Sections of a Page with Anchor Elements**  
-  
+#### 09. **Link to Internal Sections of a Page with Anchor Elements**  
+
 
 
 
