@@ -9,7 +9,7 @@ The project is from [freeCodeCamp](https://www.freecodecamp.org/)
 ## **Contents**  
 [00. Responsive Web Design](https://github.com/Yu-heart/Responsitive-Web-Design/blob/master/00.%20Responsive%20Web%20Design.md)  
 [01. Basic HTML and HTML5](https://github.com/Yu-heart/Responsitive-Web-Design/blob/master/01.%20Basic%20HTML%20and%20HTML5.md)  
-[02. Basic CSS](https://github.com/Yu-heart/Responsitive-Web-Design/blob/master/02.%20Basic%20CSS)  
+[02. Basic CSS](https://github.com/Yu-heart/Responsitive-Web-Design/blob/master/02.%20Basic%20CSS.md)  
 [03. Applied Visual Design]()  
 [04. Applied Accessibility]()  
 [05. Responsive Web Design Principles]()  
