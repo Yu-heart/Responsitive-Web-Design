@@ -23,6 +23,8 @@ The project is from [freeCodeCamp](https://www.freecodecamp.org/)
 >[前端开发者手册2019](https://yylifen.github.io/front-end-handbook-2019/)  
 >[MDN Web Docs: Learn Web development](https://developer.mozilla.org/en-US/docs/Learn)  
 >[菜鸟教程](https://www.runoob.com/)  
+>[w3school](https://www.w3schools.com/)  
 >[HTML Living Standard: WHATWG](https://whatwg.org/)  
->[CSS Standard: W3C](https://www.w3.org/Style/CSS/)
+>[CSS Standard: W3C](https://www.w3.org/Style/CSS/)  
+
   
